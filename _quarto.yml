@@ -13,6 +13,7 @@ website:
       - sidebar:miniproj1
       - sidebar:miniproj2
       - sidebar:miniproj3
+      - sidebar:swimstuff
 
   sidebar: 
     - id: miniproj1
@@ -30,6 +31,12 @@ website:
       title: "Strings"
       contents: 
         - nyt_sentiment_analysis.qmd
+        
+    - id: swimstuff
+      title: "Swim Project Files"
+      contents: 
+        - record_history_2.pdf
+        - methods_and_calculations.pdf
 
   page-footer:
     left: |
